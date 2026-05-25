@@ -1,0 +1,27 @@
+aiofiles
+copernicusmarine
+fastapi
+geopandas
+h3
+# hdbscan
+joblib
+matplotlib
+mlxtend
+numpy
+pandas
+passlib
+polars
+pydantic
+pyproj
+scikit-learn
+scipy
+setuptools
+Shapely
+scikit-image
+SQLAlchemy
+torch
+tqdm
+tslearn
+uvicorn
+transformers
+python-multipart
